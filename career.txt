@@ -1,5 +1,0 @@
-hello
-world
-my first CDD class of GIT
-tutorial through linux
-:wq
